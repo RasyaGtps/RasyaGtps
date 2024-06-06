@@ -28,5 +28,5 @@
 Connect with me through:
 - Email: xtoyougg@gmail.com
 - Discord: [deevvzz](https://discord.com/users/745266206633754675)
-- [![Discord Presence](https://lanyard.cnrad.dev/api/607908198191726594)](https://discord.com/users/745266206633754675)
+- [![Discord Presence](https://lanyard.cnrad.dev/api/745266206633754675)](https://discord.com/users/745266206633754675)
 
