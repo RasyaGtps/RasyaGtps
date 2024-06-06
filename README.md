@@ -27,6 +27,6 @@
 ## 📫 How to Reach Me
 Connect with me through:
 - Email: xtoyougg@gmail.com
-- Discord: [QweRez](https://discord.com/users/745266206633754675)
+- Discord: [deevvzz](https://discord.com/users/745266206633754675)
 - [![Discord Presence](https://lanyard.cnrad.dev/api/607908198191726594)](https://discord.com/users/745266206633754675)
 
