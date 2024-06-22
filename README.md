@@ -26,7 +26,7 @@
 
 ## 📫 How to Reach Me
 Connect with me through:
-- Email: xtoyougg@gmail.com
+- Email: rasya23darkness@gmail.com
 - Discord: [deevvzz](https://discord.com/users/745266206633754675)
 - [![Discord Presence](https://lanyard.cnrad.dev/api/745266206633754675)](https://discord.com/users/745266206633754675)
 
