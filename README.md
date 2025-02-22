@@ -97,7 +97,7 @@ const rasya = {
 ---
 
 ### 🎵 Now Playing
-[![Spotify](https://spotify-now-playing-ruby-one.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31fa3mqedndixbxa46hi25sj6ddm?si=f0a56c8e39734940)
+[![Spotify](https://spotify-now-playing-ruby-one.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/rayysigmabangetjir)
 
 ---
 
