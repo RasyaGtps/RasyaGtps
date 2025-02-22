@@ -100,6 +100,6 @@ const rasya = {
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fa3mqedndixbxa46hi25sj6ddm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=00b3ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
-<sub>🌟 From [rasyagtps](https://github.com/rasyagtps) with ❤️</sub>
+<div>🌟 From [rasyagtps](https://github.com/rasyagtps) with ❤️</div>
 
 </div>
