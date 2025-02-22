@@ -97,7 +97,7 @@ const rasya = {
 ---
 
 ### 🎵 Currently Vibing To
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fa3mqedndixbxa46hi25sj6ddm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fa3mqedndixbxa46hi25sj6ddm&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=11ff00&bar_color_cover=false)]]
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31fa3mqedndixbxa46hi25sj6ddm&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=11ff00&bar_color_cover=false)]]
 ---
 
 <sub>🌟 From [rasyagtps](https://github.com/rasyagtps) with ❤️</sub>
