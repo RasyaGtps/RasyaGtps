@@ -85,10 +85,10 @@ const rasya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rasya-rayhan-saifullah-4494b7352)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasya23darkness@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasyagtps)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-rasya-sija.vercel.app/)
 
 </div>
 
@@ -100,6 +100,6 @@ const rasya = {
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fa3mqedndixbxa46hi25sj6ddm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=00b3ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
-<sub>🌟 From [rasyagtps](https://github.com/rasyagtps) with ❤️</sub>
+<div>🌟 From Rayy with ❤️</div>
 
 </div>
