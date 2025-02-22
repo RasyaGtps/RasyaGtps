@@ -96,11 +96,8 @@ const rasya = {
 
 ---
 
-### 🎵 Now Playing
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31fa3mqedndixbxa46hi25sj6ddm?si=c4ff9f0b0e844b9a)
-</div>
-
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-embed.vercel.app/api/spotify?track=7mykoq6R3BArsSpNDjFQTm)](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm)
 
 ---
 
