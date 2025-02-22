@@ -69,7 +69,7 @@ const rasya = {
 [![Rasya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyagtps&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/rasyagtps)
 
 ### ⚡ Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rasyagtps&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RasyaGtps)](https://git.io/streak-stats)
 
 </div>
 
